@@ -49,8 +49,8 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### List of Open Source Projects Available for Contributions
 
-* [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,055 | 🐛 795 | 🌐 TypeScript | 📅 2026-08-16 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
-* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 28,172 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-11 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
+* [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,056 | 🐛 796 | 🌐 TypeScript | 📅 2026-08-16 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
+* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 28,179 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-11 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
 * [Forem](https://github.com/forem/forem) ⭐ 22,769 | 🐛 129 | 🌐 Ruby | 📅 2026-08-18 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
 * [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) ⭐ 307 | 🐛 48 | 🌐 JavaScript | 📅 2025-09-29 : Dynamic quote generator for your GitHub Profile READMEs
 * [Tails](https://github.com/thedevdojo/tails) ⭐ 68 | 🐛 2 | 🌐 PHP | 📅 2026-08-04 : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
@@ -93,9 +93,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Programming Style Guides :memo:
 
-* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 208,145 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
-* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,133 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
-* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 70,509 | 🐛 64 | 📅 2023-05-04 : Another online CS courses
+* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 208,156 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
+* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,132 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
+* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 70,519 | 🐛 64 | 📅 2023-05-04 : Another online CS courses
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,621 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
 * [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,552 | 🐛 74 | 📅 2026-07-20 : A community-driven Ruby coding style guide
 * [Art of README](https://github.com/noffle/art-of-readme) ⚠️ Archived : This is a guide about READMEs. About what they do, why they are an absolute necessity, and how to craft them well.
@@ -127,7 +127,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Open APIs :
 
-* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 464,804 | 🐛 1,699 | 🌐 Python | 📅 2026-08-18 : Github Link for all the popular public API's.
+* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 465,362 | 🐛 1,704 | 🌐 Python | 📅 2026-08-18 : Github Link for all the popular public API's.
 * [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
 * [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 
