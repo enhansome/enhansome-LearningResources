@@ -12,10 +12,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:12:08Z",
+            "last_commit": "2026-08-20T16:38:46Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80057
+            "stars": 80067
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T19:47:45Z",
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28184
+            "stars": 28195
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 73648678,
             "language": "Ruby",
-            "last_commit": "2026-08-19T19:48:23Z",
+            "last_commit": "2026-08-20T16:03:52Z",
             "owner": "forem",
             "repo": "forem",
-            "stars": 22767
+            "stars": 22768
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208196
+            "stars": 208262
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148123
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70530
+            "stars": 70556
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16552
+            "stars": 16551
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:22:48.223Z",
+    "last_updated": "2026-08-21T04:25:06.034Z",
     "original_repository": "zhravan/LearningResources",
     "original_repository_id": 306222044,
     "original_repository_sha": "1879c32af6da53f70ce02ddd757129cc01cec606",
