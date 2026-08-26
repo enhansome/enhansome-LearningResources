@@ -12,10 +12,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:33:02Z",
+            "last_commit": "2026-08-25T12:57:51Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80093
+            "stars": 80100
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T19:47:45Z",
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28243
+            "stars": 28247
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 73648678,
             "language": "Ruby",
-            "last_commit": "2026-08-24T18:58:10Z",
+            "last_commit": "2026-08-25T19:05:28Z",
             "owner": "forem",
             "repo": "forem",
-            "stars": 22771
+            "stars": 22769
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208401
+            "stars": 208418
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148136
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70651
+            "stars": 70666
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23617
+            "stars": 23616
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16550
+            "stars": 16549
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2022-08-21T15:42:02Z",
             "owner": "hackergrrl",
             "repo": "art-of-readme",
-            "stars": 7149
+            "stars": 7148
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:34.210Z",
+    "last_updated": "2026-08-26T04:26:31.701Z",
     "original_repository": "zhravan/LearningResources",
     "original_repository_id": 306222044,
     "original_repository_sha": "1879c32af6da53f70ce02ddd757129cc01cec606",
