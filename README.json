@@ -12,7 +12,7 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:29:09Z",
+            "last_commit": "2026-08-27T13:10:40Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
             "stars": 80103
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 73648678,
             "language": "Ruby",
-            "last_commit": "2026-08-25T19:05:28Z",
+            "last_commit": "2026-08-27T14:41:46Z",
             "owner": "forem",
             "repo": "forem",
             "stars": 22770
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208452
+            "stars": 208454
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148139
+            "stars": 148140
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:33.316Z",
+    "last_updated": "2026-08-27T14:48:33.442Z",
     "original_repository_info": {
       "archived": false,
       "id": 306222044,
