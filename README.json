@@ -19,7 +19,7 @@
             "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80113,
+            "stars": 80112,
             "topics": [
               "api",
               "api-client",
@@ -56,10 +56,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:47:45Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28267,
+            "stars": 28269,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -236,7 +236,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208491,
+            "stars": 208498,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144,
+            "stars": 148143,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70730,
+            "stars": 70735,
             "topics": [
               "awesome",
               "awesome-list",
@@ -345,7 +345,7 @@
             "open_issues": 74,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548,
+            "stars": 16547,
             "topics": [
               "rubocop",
               "ruby",
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:59.378Z",
+    "last_updated": "2026-08-29T10:29:35.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
