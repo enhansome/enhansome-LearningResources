@@ -10,12 +10,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+            "homepage": "https://hoppscotch.io",
             "id": 203587744,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:30:09Z",
+            "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80110
+            "stars": 80113,
+            "topics": [
+              "api",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "developer-tools",
+              "graphql",
+              "http",
+              "http-client",
+              "pwa",
+              "rest",
+              "rest-api",
+              "spa",
+              "testing",
+              "testing-tools",
+              "tools",
+              "vue",
+              "vuejs",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -26,12 +50,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
+            "homepage": "https://resumematcher.fyi/",
             "id": 253975496,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:47:45Z",
+            "open_issues": 67,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28265
+            "stars": 28267,
+            "topics": [
+              "applicant-tracking-system",
+              "ats",
+              "hacktoberfest",
+              "machine-learning",
+              "natural-language-processing",
+              "nextjs",
+              "python",
+              "resume",
+              "resume-builder",
+              "resume-parser",
+              "text-similarity",
+              "typescript",
+              "vector-search",
+              "word-embeddings"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -42,12 +86,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For empowering community 🌱",
+            "homepage": "https://forem.com",
             "id": 73648678,
             "language": "Ruby",
-            "last_commit": "2026-08-28T15:08:43Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T20:34:52Z",
+            "open_issues": 127,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22771
+            "stars": 22774,
+            "topics": [
+              "community",
+              "discussion",
+              "feedback",
+              "hacktoberfest",
+              "open-source",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -58,12 +115,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes",
+            "homepage": "https://github-readme-quotes-returns.vercel.app/",
             "id": 311138004,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-29T09:33:50Z",
+            "open_issues": 49,
             "owner": "zhravan",
             "repo": "github-readme-quotes",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "express",
+              "first-timers",
+              "good-first-issue",
+              "good-first-issues",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2025",
+              "node",
+              "node-js",
+              "nodejs",
+              "profile-readme",
+              "quote-generator",
+              "quotes",
+              "react",
+              "reactjs",
+              "readme-generator",
+              "readme-md"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -74,12 +154,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the Tails composer package for Laravel. Easily fetch designs in your Laravel application that you design inside of the Tails Site/Page Builder.",
+            "homepage": "https://devdojo.com/tails",
             "id": 513996482,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-04T00:40:34Z",
+            "open_issues": 2,
             "owner": "thedevdojo",
             "repo": "tails",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "api",
+              "pagebuilder",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -90,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installation Guide for various development software, tools and packages",
+            "homepage": null,
             "id": 337686035,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-12-18T15:54:05Z",
+            "open_issues": 1,
             "owner": "zhravan",
             "repo": "software-installation-guides",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -106,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source rep for type customisation",
+            "homepage": null,
             "id": 331969873,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-05T09:13:40Z",
+            "open_issues": 0,
             "owner": "atish31",
             "repo": "custom-input-types",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         }
@@ -128,12 +227,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
             "id": 19415064,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208476
+            "stars": 208491,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "courses",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -144,12 +253,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -160,12 +289,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: List of awesome university courses for learning Computer Science!",
+            "homepage": null,
             "id": 26689598,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-04T12:49:34Z",
+            "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70712
+            "stars": 70730,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-science",
+              "courses"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -176,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.",
+            "homepage": "http://johnpapa.net",
             "id": 22362099,
             "language": "Vim Snippet",
+            "license": "MIT",
             "last_commit": "2026-04-30T18:23:12Z",
+            "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23616
+            "stars": 23617,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -192,12 +336,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-driven Ruby coding style guide",
+            "homepage": "https://rubystyle.guide",
             "id": 2371106,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-20T10:56:34Z",
+            "open_issues": 74,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548
+            "stars": 16548,
+            "topics": [
+              "rubocop",
+              "ruby",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -208,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":love_letter: Things I've learned about writing good READMEs.",
+            "homepage": null,
             "id": 69746176,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-21T15:42:02Z",
+            "open_issues": 0,
             "owner": "hackergrrl",
             "repo": "art-of-readme",
-            "stars": 7148
+            "stars": 7148,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -224,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby Style Guide",
+            "homepage": null,
             "id": 7967167,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-19T06:38:30Z",
+            "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3892
+            "stars": 3892,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -240,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home of the Rust style team",
+            "homepage": null,
             "id": 58007273,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-17T01:57:52Z",
+            "open_issues": 31,
             "owner": "rust-lang",
             "repo": "style-team",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -256,12 +424,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aurelia Style Guide: A starting point for Aurelia development teams to provide consistency through best practices. http://aurelia.io",
+            "homepage": null,
             "id": 45098024,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-22T07:12:06Z",
+            "open_issues": 0,
             "owner": "behzad888",
             "repo": "Aurelia-styleguide",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "aurelia",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         }
@@ -270,15 +446,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:42:25.342Z",
+    "last_updated": "2026-08-29T04:55:59.378Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
+      "homepage": "https://shravan20.github.io/LearningResources/",
       "id": 306222044,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-09-25T13:12:26Z",
+      "open_issues": 0,
       "owner": "zhravan",
       "repo": "LearningResources",
-      "stars": 115
+      "stars": 115,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "best-practices",
+        "cheatsheets",
+        "cs-courses",
+        "engineering",
+        "engineering-blogs",
+        "engineering-practices",
+        "hacks",
+        "hacktoberfest",
+        "hacktoberfest2021",
+        "learning",
+        "learning-resources",
+        "liners",
+        "open-source",
+        "programming",
+        "programming-languages",
+        "software-development",
+        "software-engineering",
+        "video-tutorials"
+      ]
     },
     "original_repository_sha": "1879c32af6da53f70ce02ddd757129cc01cec606",
     "enhanced_repository": "enhansome/enhansome-LearningResources",
