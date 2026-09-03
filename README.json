@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-31T14:40:50Z",
-            "open_issues": 805,
+            "open_issues": 808,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80148,
+            "stars": 80182,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 59,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28306,
+            "stars": 28320,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,8 +91,8 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T19:27:48Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-02T17:31:51Z",
+            "open_issues": 130,
             "owner": "forem",
             "repo": "forem",
             "stars": 22774,
@@ -236,7 +236,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208623,
+            "stars": 208656,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 164,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148142,
+            "stars": 148139,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70826,
+            "stars": 70851,
             "topics": [
               "awesome",
               "awesome-list",
@@ -342,10 +342,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-20T10:56:34Z",
-            "open_issues": 74,
+            "open_issues": 73,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548,
+            "stars": 16547,
             "topics": [
               "rubocop",
               "ruby",
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:09:25.335Z",
+    "last_updated": "2026-09-03T08:18:50.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
