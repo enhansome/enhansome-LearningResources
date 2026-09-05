@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-31T14:40:50Z",
-            "open_issues": 809,
+            "open_issues": 811,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80196,
+            "stars": 80205,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 60,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28328,
+            "stars": 28333,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,8 +91,8 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T20:39:56Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-04T22:38:56Z",
+            "open_issues": 129,
             "owner": "forem",
             "repo": "forem",
             "stars": 22774,
@@ -236,7 +236,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208694,
+            "stars": 208726,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 164,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148147,
+            "stars": 148151,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70877,
+            "stars": 70896,
             "topics": [
               "awesome",
               "awesome-list",
@@ -324,7 +324,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23614,
+            "stars": 23613,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:14:51.027Z",
+    "last_updated": "2026-09-05T07:52:26.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
