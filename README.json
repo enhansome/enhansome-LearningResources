@@ -15,11 +15,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:40:50Z",
-            "open_issues": 811,
+            "last_commit": "2026-09-06T05:35:55Z",
+            "open_issues": 812,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80205,
+            "stars": 80216,
             "topics": [
               "api",
               "api-client",
@@ -53,10 +53,10 @@
             "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
             "homepage": "https://resumematcher.fyi/",
             "id": 253975496,
-            "language": "TypeScript",
+            "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T17:11:20Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-06T07:44:01Z",
+            "open_issues": 61,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
             "stars": 28333,
@@ -91,8 +91,8 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T22:38:56Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-05T18:22:06Z",
+            "open_issues": 131,
             "owner": "forem",
             "repo": "forem",
             "stars": 22774,
@@ -236,7 +236,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208726,
+            "stars": 208753,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 164,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148151,
+            "stars": 148163,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70896,
+            "stars": 70916,
             "topics": [
               "awesome",
               "awesome-list",
@@ -391,7 +391,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3892,
+            "stars": 3893,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -412,7 +412,7 @@
             "open_issues": 31,
             "owner": "rust-lang",
             "repo": "style-team",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:52:26.776Z",
+    "last_updated": "2026-09-06T08:08:34.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
@@ -455,7 +455,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-09-25T13:12:26Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zhravan",
       "repo": "LearningResources",
       "stars": 115,
