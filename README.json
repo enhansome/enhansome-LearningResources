@@ -15,11 +15,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:35:55Z",
-            "open_issues": 812,
+            "last_commit": "2026-09-08T07:59:24Z",
+            "open_issues": 813,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80230,
+            "stars": 80245,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 60,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28339,
+            "stars": 28350,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T18:22:06Z",
+            "last_commit": "2026-09-08T00:44:46Z",
             "open_issues": 134,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22775,
+            "stars": 22774,
             "topics": [
               "community",
               "discussion",
@@ -236,7 +236,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208781,
+            "stars": 208814,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -259,10 +259,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 164,
+            "open_issues": 162,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148173,
+            "stars": 148182,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -295,10 +295,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-05-04T12:49:34Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70939,
+            "stars": 70960,
             "topics": [
               "awesome",
               "awesome-list",
@@ -324,7 +324,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23613,
+            "stars": 23612,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -351,27 +351,6 @@
               "ruby",
               "style-guide"
             ]
-          },
-          "first_seen": "2026-08-28T15:42:25.342Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Art of README",
-          "description": "This is a guide about READMEs. About what they do, why they are an absolute necessity, and how to craft them well.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": ":love_letter: Things I've learned about writing good READMEs.",
-            "homepage": null,
-            "id": 69746176,
-            "language": null,
-            "license": null,
-            "last_commit": "2022-08-21T15:42:02Z",
-            "open_issues": 0,
-            "owner": "hackergrrl",
-            "repo": "art-of-readme",
-            "stars": 7148,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
         },
@@ -446,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:39:43.865Z",
+    "last_updated": "2026-09-08T08:21:27.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
