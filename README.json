@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T23:35:12Z",
-            "open_issues": 817,
+            "open_issues": 819,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80256,
+            "stars": 80262,
             "topics": [
               "api",
               "api-client",
@@ -55,11 +55,11 @@
             "id": 253975496,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T09:20:11Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-10T06:08:47Z",
+            "open_issues": 61,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28363,
+            "stars": 28373,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,8 +91,8 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T17:51:33Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-09T17:53:56Z",
+            "open_issues": 134,
             "owner": "forem",
             "repo": "forem",
             "stars": 22773,
@@ -236,7 +236,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208856,
+            "stars": 208886,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -298,7 +298,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70987,
+            "stars": 71023,
             "topics": [
               "awesome",
               "awesome-list",
@@ -345,7 +345,7 @@
             "open_issues": 73,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16545,
+            "stars": 16546,
             "topics": [
               "rubocop",
               "ruby",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:24:30.492Z",
+    "last_updated": "2026-09-10T08:26:02.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
