@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-10T22:31:29Z",
-            "open_issues": 820,
+            "open_issues": 821,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80279,
+            "stars": 80289,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 55,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28376,
+            "stars": 28387,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T21:46:55Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-11T22:44:45Z",
+            "open_issues": 135,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22774,
+            "stars": 22776,
             "topics": [
               "community",
               "discussion",
@@ -233,10 +233,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208916,
+            "stars": 208935,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148200,
+            "stars": 148207,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71044,
+            "stars": 71071,
             "topics": [
               "awesome",
               "awesome-list",
@@ -345,7 +345,7 @@
             "open_issues": 73,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16546,
+            "stars": 16545,
             "topics": [
               "rubocop",
               "ruby",
@@ -422,10 +422,91 @@
         }
       ],
       "title": "Programming Style Guides :memo:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Concise TypeScript Book",
+          "description": "Free, open-source TypeScript reference by Simone Poggiali.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+            "homepage": "https://gibbok.github.io/typescript-book/",
+            "id": 532590625,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-11T15:39:44Z",
+            "open_issues": 1,
+            "owner": "gibbok",
+            "repo": "typescript-book",
+            "stars": 10343,
+            "topics": [
+              "book",
+              "free",
+              "javascript",
+              "javascript-book",
+              "learn-typescript",
+              "typescript",
+              "typescript-book",
+              "typescript-guide",
+              "typescript-guidebook",
+              "typescript-language",
+              "typescript-learning",
+              "typescript-tutorials"
+            ]
+          },
+          "first_seen": "2026-09-12T08:09:09.020Z"
+        }
+      ],
+      "title": "Must-Read Books to be developers or problem solver :closed_book: :notebook_with_decorative_cover:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Public API's",
+          "description": "Github Link for all the popular public API's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collective list of free APIs",
+            "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
+            "id": 54346799,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-10T21:57:18Z",
+            "open_issues": 1945,
+            "owner": "public-apis",
+            "repo": "public-apis",
+            "stars": 479132,
+            "topics": [
+              "api",
+              "apis",
+              "dataset",
+              "development",
+              "free",
+              "list",
+              "lists",
+              "open-source",
+              "public",
+              "public-api",
+              "public-apis",
+              "resources",
+              "software"
+            ]
+          },
+          "first_seen": "2026-09-12T08:09:09.020Z"
+        }
+      ],
+      "title": "Open APIs :"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:20:24.238Z",
+    "last_updated": "2026-09-12T08:09:09.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
@@ -433,8 +514,8 @@
       "id": 306222044,
       "language": null,
       "license": "MIT",
-      "last_commit": "2025-09-25T13:12:26Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-11T12:59:50Z",
+      "open_issues": 0,
       "owner": "zhravan",
       "repo": "LearningResources",
       "stars": 115,
@@ -461,7 +542,7 @@
         "video-tutorials"
       ]
     },
-    "original_repository_sha": "1879c32af6da53f70ce02ddd757129cc01cec606",
+    "original_repository_sha": "a4ba67139df6f9e502cfa98c4fc2c0c15ee84506",
     "enhanced_repository": "enhansome/enhansome-LearningResources",
     "enhanced_repository_description": null,
     "title": "Awesome LearningResources with stars"
