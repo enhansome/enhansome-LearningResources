@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-16T15:34:42Z",
-            "open_issues": 827,
+            "open_issues": 826,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80353,
+            "stars": 80403,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 56,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28467,
+            "stars": 28474,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T20:35:53Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-19T19:13:17Z",
+            "open_issues": 139,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22775,
+            "stars": 22779,
             "topics": [
               "community",
               "discussion",
@@ -124,7 +124,7 @@
             "open_issues": 50,
             "owner": "zhravan",
             "repo": "github-readme-quotes",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "express",
               "first-timers",
@@ -236,7 +236,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209139,
+            "stars": 209198,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 165,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148247,
+            "stars": 148249,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71251,
+            "stars": 71271,
             "topics": [
               "awesome",
               "awesome-list",
@@ -370,7 +370,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3892,
+            "stars": 3893,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -442,7 +442,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10347,
+            "stars": 10349,
             "topics": [
               "book",
               "free",
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T19:39:43Z",
-            "open_issues": 1941,
+            "open_issues": 1948,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 481505,
+            "stars": 481723,
             "topics": [
               "api",
               "apis",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:18:46.576Z",
+    "last_updated": "2026-09-20T08:50:24.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
