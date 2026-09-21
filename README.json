@@ -15,11 +15,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T15:34:42Z",
-            "open_issues": 826,
+            "last_commit": "2026-09-21T09:12:59Z",
+            "open_issues": 825,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80403,
+            "stars": 80430,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 56,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28474,
+            "stars": 28486,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -95,7 +95,7 @@
             "open_issues": 139,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22779,
+            "stars": 22781,
             "topics": [
               "community",
               "discussion",
@@ -236,7 +236,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209198,
+            "stars": 209257,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 165,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148249,
+            "stars": 148246,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 64,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71271,
+            "stars": 71302,
             "topics": [
               "awesome",
               "awesome-list",
@@ -345,7 +345,7 @@
             "open_issues": 73,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548,
+            "stars": 16549,
             "topics": [
               "rubocop",
               "ruby",
@@ -438,11 +438,11 @@
             "id": 532590625,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T15:11:21Z",
+            "last_commit": "2026-09-20T11:30:57Z",
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10349,
+            "stars": 10351,
             "topics": [
               "book",
               "free",
@@ -478,11 +478,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:39:43Z",
-            "open_issues": 1948,
+            "last_commit": "2026-09-20T20:48:35Z",
+            "open_issues": 1903,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 481723,
+            "stars": 481965,
             "topics": [
               "api",
               "apis",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:50:24.491Z",
+    "last_updated": "2026-09-21T09:19:21.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
