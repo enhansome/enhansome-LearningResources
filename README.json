@@ -15,11 +15,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T08:49:39Z",
-            "open_issues": 824,
+            "last_commit": "2026-09-24T08:22:05Z",
+            "open_issues": 831,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80471,
+            "stars": 80493,
             "topics": [
               "api",
               "api-client",
@@ -56,7 +56,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T17:46:22Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
             "stars": 28508,
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T01:37:46Z",
-            "open_issues": 140,
+            "last_commit": "2026-09-23T19:54:04Z",
+            "open_issues": 141,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22780,
+            "stars": 22779,
             "topics": [
               "community",
               "discussion",
@@ -236,7 +236,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209388,
+            "stars": 209414,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 165,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148262,
+            "stars": 148261,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71349,
+            "stars": 71369,
             "topics": [
               "awesome",
               "awesome-list",
@@ -324,7 +324,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23610,
+            "stars": 23609,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -438,11 +438,11 @@
             "id": 532590625,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T05:08:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-23T15:08:07Z",
+            "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10353,
+            "stars": 10354,
             "topics": [
               "book",
               "free",
@@ -478,11 +478,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-20T20:48:35Z",
-            "open_issues": 1932,
+            "last_commit": "2026-09-23T19:38:11Z",
+            "open_issues": 1948,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 482433,
+            "stars": 482651,
             "topics": [
               "api",
               "apis",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:51:14.479Z",
+    "last_updated": "2026-09-24T08:47:00.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
