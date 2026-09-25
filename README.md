@@ -49,9 +49,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### List of Open Source Projects Available for Contributions
 
-* [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,493 | 🐛 831 | 🌐 TypeScript | 📅 2026-09-24 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
-* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 28,508 | 🐛 59 | 🌐 Python | 📅 2026-09-10 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
-* [Forem](https://github.com/forem/forem) ⭐ 22,779 | 🐛 141 | 🌐 Ruby | 📅 2026-09-23 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
+* [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,507 | 🐛 831 | 🌐 TypeScript | 📅 2026-09-25 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
+* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 28,516 | 🐛 58 | 🌐 Python | 📅 2026-09-24 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
+* [Forem](https://github.com/forem/forem) ⭐ 22,782 | 🐛 144 | 🌐 Ruby | 📅 2026-09-24 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
 * [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) ⭐ 308 | 🐛 50 | 🌐 JavaScript | 📅 2025-09-29 : Dynamic quote generator for your GitHub Profile READMEs
 * [Tails](https://github.com/thedevdojo/tails) ⭐ 68 | 🐛 2 | 🌐 PHP | 📅 2026-08-04 : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
 * [Software-Installation-Guide](https://github.com/shravan20/software-installation-guides) ⭐ 8 | 🐛 1 | 🌐 Shell | 📅 2025-12-18 : Installation Guide for various development software, tools and packages
@@ -94,11 +94,11 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Programming Style Guides :memo:
 
-* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 209,414 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
-* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,261 | 🐛 165 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
-* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 71,369 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
-* [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,609 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
-* [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,548 | 🐛 73 | 📅 2026-07-20 : A community-driven Ruby coding style guide
+* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 209,441 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
+* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,272 | 🐛 165 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
+* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 71,387 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
+* [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,608 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
+* [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,549 | 🐛 73 | 📅 2026-07-20 : A community-driven Ruby coding style guide
 * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) ⭐ 3,892 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19 : A ruby style guide by Airbnb
 * [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs) ⭐ 474 | 🐛 31 | 🌐 Rust | 📅 2024-05-17: Rust code formatting RFCs and coding style guides
 * [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) ⭐ 24 | 🐛 0 | 📅 2017-08-22 : An Aurelia style guide by Behzad Abbasi(Behzad888)
@@ -119,7 +119,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Must-Read Books to be developers or problem solver :closed\_book: :notebook\_with\_decorative\_cover:
 
-* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,354 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23 : Free, open-source TypeScript reference by Simone Poggiali.
+* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,355 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-25 : Free, open-source TypeScript reference by Simone Poggiali.
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) : Revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) : This book, by Robert C. Martin, is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude.
 * [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
@@ -129,7 +129,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Open APIs :
 
-* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 482,651 | 🐛 1,948 | 🌐 Python | 📅 2026-09-23 : Github Link for all the popular public API's.
+* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 483,015 | 🐛 1,947 | 🌐 Python | 📅 2026-09-24 : Github Link for all the popular public API's.
 * [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
 * [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 
@@ -275,4 +275,4 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
