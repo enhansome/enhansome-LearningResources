@@ -19,7 +19,7 @@
             "open_issues": 844,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80562,
+            "stars": 80563,
             "topics": [
               "api",
               "api-client",
@@ -56,10 +56,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-29T15:41:46Z",
-            "open_issues": 59,
+            "open_issues": 57,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28570,
+            "stars": 28572,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -236,7 +236,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209701,
+            "stars": 209705,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148300,
+            "stars": 148302,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71549,
+            "stars": 71553,
             "topics": [
               "awesome",
               "awesome-list",
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T22:24:14Z",
-            "open_issues": 1987,
+            "open_issues": 2000,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 485595,
+            "stars": 485653,
             "topics": [
               "api",
               "apis",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:30:29.568Z",
+    "last_updated": "2026-10-03T09:27:24.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
