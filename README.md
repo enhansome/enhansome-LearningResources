@@ -49,10 +49,10 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### List of Open Source Projects Available for Contributions
 
-* [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,563 | 🐛 844 | 🌐 TypeScript | 📅 2026-09-30 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
-* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 28,572 | 🐛 57 | 🌐 Python | 📅 2026-09-29 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
-* [Forem](https://github.com/forem/forem) ⭐ 22,782 | 🐛 152 | 🌐 Ruby | 📅 2026-10-02 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
-* [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) ⭐ 308 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-27 : Dynamic quote generator for your GitHub Profile READMEs
+* [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,560 | 🐛 848 | 🌐 TypeScript | 📅 2026-09-30 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
+* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 28,578 | 🐛 58 | 🌐 Python | 📅 2026-09-29 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
+* [Forem](https://github.com/forem/forem) ⭐ 22,787 | 🐛 153 | 🌐 Ruby | 📅 2026-10-02 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
+* [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) ⭐ 308 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 : Dynamic quote generator for your GitHub Profile READMEs
 * [Tails](https://github.com/thedevdojo/tails) ⭐ 68 | 🐛 2 | 🌐 PHP | 📅 2026-08-04 : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
 * [Software-Installation-Guide](https://github.com/shravan20/software-installation-guides) ⭐ 8 | 🐛 1 | 🌐 Shell | 📅 2025-12-18 : Installation Guide for various development software, tools and packages
 * [custom-input-types](https://github.com/atish31/custom-input-types) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-05 : Custom Input Types lets you use customised input types without writing any JavaScript for yourself
@@ -94,10 +94,10 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Programming Style Guides :memo:
 
-* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 209,705 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
-* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,302 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
-* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 71,553 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
-* [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,601 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
+* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 209,735 | 🐛 29 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
+* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,303 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
+* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 71,572 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
+* [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,600 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
 * [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,548 | 🐛 78 | 📅 2026-07-20 : A community-driven Ruby coding style guide
 * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) ⭐ 3,892 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19 : A ruby style guide by Airbnb
 * [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs) ⭐ 474 | 🐛 31 | 🌐 Rust | 📅 2024-05-17: Rust code formatting RFCs and coding style guides
@@ -129,7 +129,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Open APIs :
 
-* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 485,653 | 🐛 2,000 | 🌐 Python | 📅 2026-10-02 : Github Link for all the popular public API's.
+* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 485,975 | 🐛 1,997 | 🌐 Python | 📅 2026-10-04 : Github Link for all the popular public API's.
 * [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
 * [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 
@@ -275,4 +275,4 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
