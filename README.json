@@ -19,7 +19,7 @@
             "open_issues": 848,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80582,
+            "stars": 80588,
             "topics": [
               "api",
               "api-client",
@@ -56,10 +56,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T20:58:46Z",
-            "open_issues": 67,
+            "open_issues": 66,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28596,
+            "stars": 28601,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T20:08:02Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-07T19:54:11Z",
+            "open_issues": 158,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22791,
+            "stars": 22790,
             "topics": [
               "community",
               "discussion",
@@ -124,7 +124,7 @@
             "open_issues": 45,
             "owner": "zhravan",
             "repo": "github-readme-quotes",
-            "stars": 308,
+            "stars": 307,
             "topics": [
               "express",
               "first-timers",
@@ -236,7 +236,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209930,
+            "stars": 209979,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148300,
+            "stars": 148293,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71669,
+            "stars": 71696,
             "topics": [
               "awesome",
               "awesome-list",
@@ -324,7 +324,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23601,
+            "stars": 23598,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -345,7 +345,7 @@
             "open_issues": 78,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16545,
+            "stars": 16546,
             "topics": [
               "rubocop",
               "ruby",
@@ -370,7 +370,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3891,
+            "stars": 3890,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -438,7 +438,7 @@
             "id": 532590625,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T05:08:39Z",
+            "last_commit": "2026-10-08T06:07:43Z",
             "open_issues": 3,
             "owner": "gibbok",
             "repo": "typescript-book",
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T22:52:00Z",
-            "open_issues": 2051,
+            "open_issues": 2074,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 486642,
+            "stars": 486880,
             "topics": [
               "api",
               "apis",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:36:31.493Z",
+    "last_updated": "2026-10-08T10:57:34.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
