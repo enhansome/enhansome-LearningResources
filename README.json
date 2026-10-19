@@ -15,11 +15,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T04:41:25Z",
+            "last_commit": "2026-10-19T05:20:32Z",
             "open_issues": 859,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80641,
+            "stars": 80654,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 39,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28744,
+            "stars": 28766,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -236,7 +236,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210093,
+            "stars": 210136,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148061,
+            "stars": 148058,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71981,
+            "stars": 72024,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,7 +442,7 @@
             "open_issues": 2,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10358,
+            "stars": 10360,
             "topics": [
               "book",
               "free",
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-17T17:36:01Z",
-            "open_issues": 2207,
+            "open_issues": 2230,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 489871,
+            "stars": 490255,
             "topics": [
               "api",
               "apis",
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:21:20.285Z",
+    "last_updated": "2026-10-19T09:20:24.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
@@ -514,8 +514,8 @@
       "id": 306222044,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-11T12:59:50Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-19T02:53:22Z",
+      "open_issues": 1,
       "owner": "zhravan",
       "repo": "LearningResources",
       "stars": 115,
@@ -542,7 +542,7 @@
         "video-tutorials"
       ]
     },
-    "original_repository_sha": "a4ba67139df6f9e502cfa98c4fc2c0c15ee84506",
+    "original_repository_sha": "c7e5451d539e6eb40f065cf1159fcb2b66029e91",
     "enhanced_repository": "enhansome/enhansome-LearningResources",
     "enhanced_repository_description": null,
     "title": "Awesome LearningResources with stars"
