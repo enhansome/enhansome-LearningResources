@@ -15,11 +15,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:14:56Z",
-            "open_issues": 862,
+            "last_commit": "2026-10-26T08:48:53Z",
+            "open_issues": 866,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80680,
+            "stars": 80685,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 39,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28856,
+            "stars": 28866,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T07:42:01Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-26T06:37:59Z",
+            "open_issues": 175,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22808,
+            "stars": 22810,
             "topics": [
               "community",
               "discussion",
@@ -236,7 +236,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210331,
+            "stars": 210362,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -259,10 +259,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148052,
+            "stars": 148045,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 66,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72207,
+            "stars": 72243,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,7 +442,7 @@
             "open_issues": 1,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10364,
+            "stars": 10365,
             "topics": [
               "book",
               "free",
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-24T09:30:33Z",
-            "open_issues": 2351,
+            "open_issues": 2378,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 491966,
+            "stars": 492232,
             "topics": [
               "api",
               "apis",
@@ -503,10 +503,100 @@
         }
       ],
       "title": "Open APIs :"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "agent-qa",
+          "description": "Natural-language testing for web, Android, and iOS with advanced memidex memory and self-improvement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
+            "id": 1232322871,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-24T19:08:29Z",
+            "open_issues": 6,
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 895,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "fair-source",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright"
+            ]
+          },
+          "first_seen": "2026-10-26T09:24:02.616Z"
+        },
+        {
+          "node_type": "item",
+          "title": "deed.page",
+          "description": "Static hosting for AI agents and scripts: one HTTP PUT or the MCP server publishes an HTML file or folder to a permanent URL. Free plan with no signup; open-source agent skill at f-o-x11/deed-page-skill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Agent skill: publish files to a permanent deed.page URL with one curl request. No account.",
+            "homepage": "https://deed.page",
+            "id": 1426285209,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-26T01:04:04Z",
+            "open_issues": 0,
+            "owner": "f-o-x11",
+            "repo": "deed-page-skill",
+            "stars": 2,
+            "topics": [
+              "agent-skill",
+              "agent-skills",
+              "ai-agents",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-skills",
+              "codex",
+              "codex-skills",
+              "deploy",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "hermes-agent",
+              "hosting",
+              "html",
+              "mcp",
+              "mcp-server",
+              "publish",
+              "skill-md",
+              "skills",
+              "static-site"
+            ]
+          },
+          "first_seen": "2026-10-26T09:24:02.616Z"
+        }
+      ],
+      "title": "Developer tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:45:06.493Z",
+    "last_updated": "2026-10-26T09:24:02.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
@@ -514,8 +604,8 @@
       "id": 306222044,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-19T17:56:22Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-25T11:10:58Z",
+      "open_issues": 1,
       "owner": "zhravan",
       "repo": "LearningResources",
       "stars": 116,
@@ -542,7 +632,7 @@
         "video-tutorials"
       ]
     },
-    "original_repository_sha": "b5d63755ad14e2d7780f336e1b49abb6c2efcf6f",
+    "original_repository_sha": "7e11fc8717c3c42523ad66eb928ba14909c26dce",
     "enhanced_repository": "enhansome/enhansome-LearningResources",
     "enhanced_repository_description": null,
     "title": "Awesome LearningResources with stars"
