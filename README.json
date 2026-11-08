@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-05T08:16:25Z",
-            "open_issues": 890,
+            "open_issues": 891,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80764,
+            "stars": 80767,
             "topics": [
               "api",
               "api-client",
@@ -55,11 +55,11 @@
             "id": 253975496,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T10:22:09Z",
+            "last_commit": "2026-11-07T18:09:52Z",
             "open_issues": 42,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 29167,
+            "stars": 29177,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T00:14:04Z",
-            "open_issues": 166,
+            "last_commit": "2026-11-08T00:24:22Z",
+            "open_issues": 167,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22815,
+            "stars": 22816,
             "topics": [
               "community",
               "discussion",
@@ -236,7 +236,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210916,
+            "stars": 210958,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 169,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148027,
+            "stars": 148023,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 66,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72636,
+            "stars": 72668,
             "topics": [
               "awesome",
               "awesome-list",
@@ -345,7 +345,7 @@
             "open_issues": 77,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16541,
+            "stars": 16542,
             "topics": [
               "rubocop",
               "ruby",
@@ -370,7 +370,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3889,
+            "stars": 3888,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -442,7 +442,7 @@
             "open_issues": 3,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10366,
+            "stars": 10365,
             "topics": [
               "book",
               "free",
@@ -478,11 +478,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:06:53Z",
-            "open_issues": 2602,
+            "last_commit": "2026-11-07T19:45:54Z",
+            "open_issues": 2595,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 496843,
+            "stars": 497140,
             "topics": [
               "api",
               "apis",
@@ -519,8 +519,8 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T10:40:55Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-08T08:34:10Z",
+            "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
             "stars": 856,
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:43:08.289Z",
+    "last_updated": "2026-11-08T10:47:42.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
