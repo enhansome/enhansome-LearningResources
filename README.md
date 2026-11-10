@@ -18,7 +18,7 @@
 
 <!-- HEADER -->
 
-![alt](https://img.shields.io/apm/l/vim-mode?label=license\&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://komarev.com/ghpvc/?username=shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://github.com/shravan20/LearningResources/graphs/contributors) ⭐ 116 | 🐛 5 | 📅 2026-10-25
+![alt](https://img.shields.io/apm/l/vim-mode?label=license\&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://komarev.com/ghpvc/?username=shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://github.com/shravan20/LearningResources/graphs/contributors) ⭐ 116 | 🐛 5 | 📅 2026-11-10
 
 <br>
 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -50,9 +50,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 ### List of Open Source Projects Available for Contributions
 
 * [hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,770 | 🐛 891 | 🌐 TypeScript | 📅 2026-11-05 : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
-* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 29,203 | 🐛 42 | 🌐 Python | 📅 2026-11-07 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
-* [Forem](https://github.com/forem/forem) ⭐ 22,815 | 🐛 165 | 🌐 Ruby | 📅 2026-11-09 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
-* [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) ⭐ 306 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 : Dynamic quote generator for your GitHub Profile READMEs
+* [Resume Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 29,222 | 🐛 42 | 🌐 Python | 📅 2026-11-07 : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
+* [Forem](https://github.com/forem/forem) ⭐ 22,816 | 🐛 169 | 🌐 Ruby | 📅 2026-11-10 : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
+* [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) ⭐ 307 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-27 : Dynamic quote generator for your GitHub Profile READMEs
 * [Tails](https://github.com/thedevdojo/tails) ⭐ 68 | 🐛 2 | 🌐 PHP | 📅 2026-08-04 : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
 * [Software-Installation-Guide](https://github.com/shravan20/software-installation-guides) ⭐ 8 | 🐛 1 | 🌐 Shell | 📅 2025-12-18 : Installation Guide for various development software, tools and packages
 * [custom-input-types](https://github.com/atish31/custom-input-types) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-05 : Custom Input Types lets you use customised input types without writing any JavaScript for yourself
@@ -95,11 +95,11 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Programming Style Guides :memo:
 
-* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 211,011 | 🐛 29 | 🌐 HTML | 📅 2026-11-09 : Free online CS courses
-* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,016 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
-* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 72,706 | 🐛 66 | 📅 2023-05-04 : Another online CS courses
+* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 211,061 | 🐛 29 | 🌐 HTML | 📅 2026-11-09 : Free online CS courses
+* [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,014 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
+* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 72,734 | 🐛 66 | 📅 2023-05-04 : Another online CS courses
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,584 | 🐛 3 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
-* [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,542 | 🐛 77 | 📅 2026-10-30 : A community-driven Ruby coding style guide
+* [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,541 | 🐛 77 | 📅 2026-10-30 : A community-driven Ruby coding style guide
 * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) ⭐ 3,888 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19 : A ruby style guide by Airbnb
 * [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs) ⭐ 475 | 🐛 31 | 🌐 Rust | 📅 2024-05-17: Rust code formatting RFCs and coding style guides
 * [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) ⭐ 24 | 🐛 0 | 📅 2017-08-22 : An Aurelia style guide by Behzad Abbasi(Behzad888)
@@ -120,7 +120,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Must-Read Books to be developers or problem solver :closed\_book: :notebook\_with\_decorative\_cover:
 
-* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,366 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06 : Free, open-source TypeScript reference by Simone Poggiali.
+* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) ⭐ 10,367 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06 : Free, open-source TypeScript reference by Simone Poggiali.
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) : Revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) : This book, by Robert C. Martin, is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude.
 * [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
@@ -130,7 +130,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Open APIs :
 
-* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 497,443 | 🐛 2,587 | 🌐 Python | 📅 2026-11-07 : Github Link for all the popular public API's.
+* [Public API's](https://github.com/public-apis/public-apis#development) ⭐ 497,786 | 🐛 2,612 | 🌐 Python | 📅 2026-11-07 : Github Link for all the popular public API's.
 * [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
 * [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 * [CurlShot](https://curlshot.com/docs) : Hosted screenshot API that turns a URL or HTML into a PNG, JPEG, WebP or PDF with one GET request; free plan with 100 screenshots/month.
@@ -260,11 +260,12 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Developer tools
 
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 847 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-09 : Natural-language testing for web, Android, and iOS with advanced memidex memory and self-improvement.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 850 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-10 : Natural-language testing for web, Android, and iOS with advanced memidex memory and self-improvement.
 * [deed.page](https://deed.page/) - Static hosting for AI agents and scripts: one HTTP PUT or the MCP server publishes an HTML file or folder to a permanent `https://<slug>.deed.page` URL. Free plan with no signup; open-source agent skill at [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-11-06.
 * [Wireframe Designer](https://wiredjs.github.io/designer/) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
 * [APPLORE](https://applore.app/app-icon-generator) - Free tool that exports every iOS, Android and web app icon size from one image, no sign-up needed.
 * [Frink](https://frink.dev) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+* [Pic2Vector](https://pic2vector.com/) - Free browser-based converter that traces PNG, JPG, and WebP images into SVG vector graphics locally with WebAssembly.
 
 ***
 
@@ -281,4 +282,4 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

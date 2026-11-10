@@ -59,7 +59,7 @@
             "open_issues": 42,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 29203,
+            "stars": 29222,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T00:05:51Z",
-            "open_issues": 165,
+            "last_commit": "2026-11-10T05:18:57Z",
+            "open_issues": 169,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22815,
+            "stars": 22816,
             "topics": [
               "community",
               "discussion",
@@ -124,7 +124,7 @@
             "open_issues": 45,
             "owner": "zhravan",
             "repo": "github-readme-quotes",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "express",
               "first-timers",
@@ -236,7 +236,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211011,
+            "stars": 211061,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 169,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148016,
+            "stars": 148014,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 66,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72706,
+            "stars": 72734,
             "topics": [
               "awesome",
               "awesome-list",
@@ -345,7 +345,7 @@
             "open_issues": 77,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16542,
+            "stars": 16541,
             "topics": [
               "rubocop",
               "ruby",
@@ -442,7 +442,7 @@
             "open_issues": 3,
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10366,
+            "stars": 10367,
             "topics": [
               "book",
               "free",
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-07T19:45:54Z",
-            "open_issues": 2587,
+            "open_issues": 2612,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 497443,
+            "stars": 497786,
             "topics": [
               "api",
               "apis",
@@ -519,11 +519,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T08:01:58Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-10T09:42:30Z",
+            "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 847,
+            "stars": 850,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:12:27.965Z",
+    "last_updated": "2026-11-10T11:52:25.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
@@ -604,7 +604,7 @@
       "id": 306222044,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-25T11:10:58Z",
+      "last_commit": "2026-11-10T10:28:33Z",
       "open_issues": 5,
       "owner": "zhravan",
       "repo": "LearningResources",
@@ -632,7 +632,7 @@
         "video-tutorials"
       ]
     },
-    "original_repository_sha": "7e11fc8717c3c42523ad66eb928ba14909c26dce",
+    "original_repository_sha": "a2a2fa2b5b87a7bd4fe112fd92ab333ccecbe64b",
     "enhanced_repository": "enhansome/enhansome-LearningResources",
     "enhanced_repository_description": null,
     "title": "Awesome LearningResources with stars"
