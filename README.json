@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-20T13:56:55Z",
-            "open_issues": 918,
+            "open_issues": 919,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80863,
+            "stars": 80868,
             "topics": [
               "api",
               "api-client",
@@ -59,7 +59,7 @@
             "open_issues": 46,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 29365,
+            "stars": 29373,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -91,11 +91,11 @@
             "id": 73648678,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-20T23:10:42Z",
+            "last_commit": "2026-11-21T23:31:04Z",
             "open_issues": 175,
             "owner": "forem",
             "repo": "forem",
-            "stars": 22844,
+            "stars": 22843,
             "topics": [
               "community",
               "discussion",
@@ -236,7 +236,7 @@
             "open_issues": 31,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211381,
+            "stars": 211420,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -262,7 +262,7 @@
             "open_issues": 171,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148016,
+            "stars": 148018,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -298,7 +298,7 @@
             "open_issues": 67,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 73060,
+            "stars": 73081,
             "topics": [
               "awesome",
               "awesome-list",
@@ -324,7 +324,7 @@
             "open_issues": 3,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23580,
+            "stars": 23578,
             "topics": []
           },
           "first_seen": "2026-08-28T15:42:25.342Z"
@@ -479,10 +479,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T19:42:29Z",
-            "open_issues": 2816,
+            "open_issues": 2858,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 500566,
+            "stars": 500739,
             "topics": [
               "api",
               "apis",
@@ -523,7 +523,7 @@
             "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 819,
+            "stars": 820,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T11:50:20.141Z",
+    "last_updated": "2026-11-22T12:01:43.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more  ",
